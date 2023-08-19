@@ -1,0 +1,41 @@
+{
+    "questions": [
+      {
+        "question": "What services does Galactic Freight offer?",
+        "answer": "Galactic Freight specializes in shipping goods, cargo, and rare artifacts across the galaxy. From bulk shipments of spice to transporting exotic creatures, we handle it all. Need to move a Star Destroyer? We've got a freighter for that!"
+      },
+      {
+        "question": "How do I get a quote for shipping?",
+        "answer": "Simply input the details of your shipment, including origin, destination, weight, and hyperspace class, into our online quote calculator. For specialized cargo, such as lightsabers or Sith relics, please contact our Cargo Masters directly."
+      },
+      {
+        "question": "What are the customs and regulations for different star systems?",
+        "answer": "Customs and regulations vary across star systems. Our Galactic Compliance Team ensures adherence to all local laws, whether shipping Wookiee-made goods to Kashyyyk or navigating the complex tariffs of the Core Worlds. Rest assured, we've never made the Kessel Run without proper clearance!"
+      },
+      {
+        "question": "Can I track my shipment in real-time?",
+        "answer": "Yes! Our state-of-the-art tracking system allows you to monitor your shipment as it travels through hyperspace. Receive live updates, including any unexpected detours due to asteroid fields or Imperial blockades."
+      },
+      {
+        "question": "Do you offer insurance for valuable cargo?",
+        "answer": "Absolutely! Our Galactic Cargo Insurance covers loss, damage, and even theft by notorious smugglers. Whether shipping kyber crystals or priceless holocrons, your valuables are safe with us."
+      },
+      {
+        "question": "What's the policy on transporting live creatures?",
+        "answer": "Transporting live creatures is a delicate task, and we're experts at it! Our specialized containment units ensure the comfort and safety of all species, from Banthas to Tauntauns. Please note that Rancors require additional permits and handling fees."
+      },
+      {
+        "question": "How do you handle high-security shipments?",
+        "answer": "High-security shipments are our specialty. We offer armed escort services, stealth technology, and even partnership with renowned bounty hunters for those extra-sensitive deliveries. Your secrets are safe in our cargo holds."
+      },
+      {
+        "question": "Can I ship personal belongings if I'm moving to another planet?",
+        "answer": "Of course! Whether relocating to the bustling streets of Coruscant or the remote deserts of Tatooine, we'll handle your personal belongings with care. Ask about our Galactic Moving Packages for a seamless interstellar relocation experience."
+      },
+      {
+        "question": "What if my shipment is delayed or lost?",
+        "answer": "While delays due to space pirates or black holes are rare, we're committed to resolving any issues promptly. Our Customer Support Droids are available 24/7 to assist with tracking, rescheduling, or recovering lost shipments. We'll navigate the galaxy to make it right!"
+      }
+    ]
+  }
+  

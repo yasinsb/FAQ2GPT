@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "What is Hyperdrive Express, and where does it operate?",
+      "answer": "Hyperdrive Express is the galaxy's leading rapid transit system, providing quick and affordable travel between major planets and cities. With daily runs between Coruscant and Tatooine, and express routes to the far reaches of the Outer Rim, we make commuting across the galaxy as easy as flipping a hyperdrive switch!"
+    },
+    {
+      "question": "How do I purchase tickets and what are the fare options?",
+      "answer": "Tickets can be purchased online, at our planetary terminals, or via our mobile app. Fare options include Single-Jump Tickets, Multi-Galaxy Passes, and special discounts for Jedi, droids, and members of the Galactic Senate. Pay with galactic credits or your Hyperdrive Membership Card."
+    },
+    {
+      "question": "What's the schedule for daily runs and express routes?",
+      "answer": "Our daily runs operate at regular intervals, with express routes to popular destinations like Naboo and Hoth. Special seasonal routes include the Endor Moon Festival and the Geonosis Gladiator Games. Check our holosite for up-to-date schedules and hyperspace travel times."
+    },
+    {
+      "question": "Are there any luggage restrictions?",
+      "answer": "Luggage restrictions vary by route and class of travel. Standard passengers may bring one carry-on astromech droid and one checked lightsaber. Additional fees apply for larger items such as carbonite-frozen bounties or podracer engines."
+    },
+    {
+      "question": "What amenities are available during the trip?",
+      "answer": "Enjoy complimentary blue milk and Hoth chocolate, access to our onboard holonet, and comfortable seating with adjustable gravity settings. Premium Hyperdrive Plus cabins offer reclining seats, personal viewports, and exclusive entertainment, such as live podracing streams."
+    },
+    {
+      "question": "Is Hyperdrive Express accessible to all species and droids?",
+      "answer": "Hyperdrive Express is committed to accessibility for all beings in the galaxy. Our starcraft are equipped with ramps, specialized seating, and translation services for over six million languages. Droid-friendly compartments and assistance droids are available upon request."
+    },
+    {
+      "question": "What safety measures are in place during hyperspace travel?",
+      "answer": "Safety is our priority, even when making the Kessel Run in record time. Our starcraft are equipped with advanced navigation systems, deflector shields, and emergency escape pods. Our pilots are trained to navigate asteroid fields, black holes, and even Sith blockades."
+    },
+    {
+      "question": "Can I bring my pet Womp Rat or other space-pets?",
+      "answer": "Space-pets are welcome on Hyperdrive Express! Designated pet compartments are available for Womp Rats, Porgs, and other friendly creatures. Please review our Space-Pet Policy for specific guidelines and restrictions."
+    },
+    {
+      "question": "Do you offer group bookings for school trips or corporate travel?",
+      "answer": "Yes! Group bookings are available for school field trips to Jedi Academies, corporate retreats to Cloud City, and more. Contact our Group Travel Coordinators for customized packages and exclusive hyperspace lanes."
+    },
+    {
+      "question": "How do I provide feedback or report an issue with my journey?",
+      "answer": "Your feedback helps us soar to new heights! Share your thoughts, compliments, or concerns through our holosite or contact our Customer Support Droids. Whether it's praise for our pilots or suggestions for new routes (Dagobah, anyone?), we value your input."
+    }
+  ]
+}
